@@ -11,6 +11,8 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
             Console.WriteLine("Зачем вы забераете мое лето?");
+            Console.WriteLine("Зачем вы забераете мое лето?");
+
             Console.ReadKey();
         }
     }
